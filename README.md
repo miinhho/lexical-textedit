@@ -2,6 +2,8 @@
 
 나중에 내가 까먹지 않도록 저장하는 Lexical 텍스트 에디터
 
+![](public/preview.png)
+
 ### Feature
 - History
 - List, Check List
